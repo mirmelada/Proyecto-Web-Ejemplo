@@ -9,8 +9,8 @@ body {
 
 /* Estilos para el encabezado */
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #aeeeee;
+    color: #333;
     padding: 10px 0;
     text-align: center;
 }
@@ -44,8 +44,8 @@ a:hover {
 
 /* Estilos para el pie de página */
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #aeeeee;
+    color: #333;
     text-align: center;
     padding: 10px 0;
     position: absolute;
